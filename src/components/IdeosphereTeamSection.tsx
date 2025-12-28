@@ -11,7 +11,7 @@ export default function IdeosphereTeamSection() {
       designation: "Co-founder & Head Of Technology",
       imageSrc: "/team-headshot-rei.jpg",
       socialLinks: [
-        { icon: Twitter, href: "https://x.com/0xmetalogica" },
+        { icon: Twitter, href: "https://x.com/0xmoreofthesame" },
         { icon: Linkedin, href: "https://www.linkedin.com/in/rjarram/" },
       ],
     },
